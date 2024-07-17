@@ -49,6 +49,7 @@ const Technologies = () => {
 
         </motion.div>
     </motion.div>
+    
 
   </div>
 }
